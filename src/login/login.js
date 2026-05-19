@@ -144,7 +144,7 @@ export default function SignIn() {
             <div style={{ padding: 5, paddingTop: 30, paddingBottom: 45, display: 'flex', alignItems: 'center', flexDirection: 'column', marginTop: 120, borderRadius: 10, boxShadow: '0 6px 12px 0 rgba(0, 0, 0, 0.3)' }} >
               <img src={Icon2} width={100} height={100} style={{ marginRight: 5 }} />
               <h2 style={{ textAlign: 'center', margin: 0, color: '#3F51B5', marginBottom: 10, fontFamily: '-moz-initial' }}>
-                EAST INDIA <br /> MULTI-PURPOSE <br /> CO-OPERATIVE SOCIETY LTD
+                ZG<br />  THRIFT AND CREDIT  <br /> CO-OPERATIVE SOCIETY LTD
               </h2>
               {/* <Typography component="h1" variant="h6">
                 {employeeView ? "Enter Employee Password" : 'Enter Login Password'}
@@ -250,16 +250,16 @@ export default function SignIn() {
                         }
                       />
                     </FormControl>
-                      <Button
-                        type="submit"
-                        fullWidth
-                        variant="contained"
-                        color="primary"
-                        className={classes.submit}
-                        onClick={check}
-                      >
-                        submit
-                      </Button>
+                    <Button
+                      type="submit"
+                      fullWidth
+                      variant="contained"
+                      color="primary"
+                      className={classes.submit}
+                      onClick={check}
+                    >
+                      submit
+                    </Button>
                   </form>
                 )
               }
@@ -273,11 +273,11 @@ export default function SignIn() {
       <div style={{ display: 'flex', alignItems: 'center', flexDirection: 'column', marginTop: 0 }}>
         <div style={{ display: 'flex' }}>
           <a href='https://tacsol.in/'>
-          <img src={Tacsol} width={150} height={30} style={{ marginRight: 5 }}/>
+            <img src={Tacsol} width={150} height={30} style={{ marginRight: 5 }} />
           </a>
         </div>
-        <Typography style={{ fontSize: 15, fontFamily: 'sans-serif',textAlign:'center' }}>
-          Copyright© 2025 Tacsol <br/>Privacy Policy
+        <Typography style={{ fontSize: 15, fontFamily: 'sans-serif', textAlign: 'center' }}>
+          Copyright© 2025 Tacsol <br />Privacy Policy
         </Typography>
       </div>
 

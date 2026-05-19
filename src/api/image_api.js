@@ -1,3 +1,3 @@
-const ImageApi = "https://eastindia.tacsol.in/eastindia/uploads/"
+const ImageApi = "https://tacsol.zgcredit.in/api/uploads/"
 
-export default  ImageApi 
+export default ImageApi 

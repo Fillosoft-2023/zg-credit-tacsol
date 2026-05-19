@@ -1,0 +1,149 @@
+
+
+/* .k-pdf-export .table {
+  width : 100%;
+  border-collapse: collapse;
+} */
+
+/* .k-pdf-export .table, .table th {
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  font-size: 10px;
+  font-weight: normal;
+  height: 15px;
+  max-height: 15px;
+  text-align: center;
+}
+.k-pdf-export .table, .table td {
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  font-size: 10px;
+  font-weight: normal;
+  height: 25px;
+  max-height: 25px;
+  text-align: center;
+} */
+/* .k-pdf-export .table, .table tr td,table th {
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  font-size: 10px;
+  font-weight: normal;
+  height: 25px;
+  max-height: 25px;
+  text-align: center;
+} */
+.table {
+  border-collapse: collapse;
+  
+}
+.k-pdf-export .table, #th, .td {
+  border:1px solid #000;
+  font-size: 10px;
+  font-weight: normal;
+  height: 25px;
+  max-height: 25px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.k-pdf-export .table {
+  border-bottom:0;
+  border-left:0;
+ 
+  
+}
+.k-pdf-export  .td, #th {
+  border-top:0;
+  border-right:0;
+}
+
+
+
+.k-pdf-export .table-head-sl {
+  min-width : 20px;
+
+}
+.k-pdf-export .table-head-name {
+  min-width : 90px;
+
+}
+.k-pdf-export .table-head-mem-no {
+  min-width : 40px;
+
+}
+.k-pdf-export .table-head-l-no {
+  min-width : 40px;
+
+}
+.k-pdf-export .table-head-com-in {
+  min-width : 40px;
+
+}
+.k-pdf-export .table-head-print-o {
+  min-width : 40px;
+
+}
+.k-pdf-export .table-head-int-o {
+  min-width : 40px;
+
+}
+.k-pdf-export .table-head-disb-date {
+  min-width : 60px;
+
+}
+.k-pdf-export .table-head-disb-amt {
+  min-width : 40px;
+
+}
+.k-pdf-export .table-head-inst-amt {
+  min-width : 50px;
+
+}
+.k-pdf-export .table-head-total {
+  min-width : 30px;
+
+}
+
+.k-pdf-export .table-sub-head-prin {
+  min-width: 25px!important;
+}
+.k-pdf-export .table-sub-head-int {
+  min-width: 25px!important;
+}
+
+/*savings*/
+
+.k-pdf-export  .td-sav, #th-sav {
+  border-top:0;
+  border-right:0;
+}
+
+.k-pdf-export .table-head-sav-sl_no {
+  min-width : 20px;
+
+}
+.k-pdf-export .table-head-sav-name {
+  min-width : 100px;
+
+}
+.k-pdf-export .table-head-sav-mem_no {
+  min-width : 60px;
+
+}
+.k-pdf-export .table-head-sav-mcb_no {
+  min-width : 45px;
+
+}
+.k-pdf-export .table-head-sav-dep_amnt {
+  min-width : 30px;
+
+}
+.k-pdf-export .table-head-sav-os {
+  min-width : 45px;
+
+}
+.k-pdf-export .table-head-sav-filed {
+  min-width : 35px;
+
+}
+.k-pdf-export .table-head-sav-total {
+  min-width : 40px;
+
+}

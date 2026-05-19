@@ -1,0 +1,6 @@
+.selected-marker {
+    background-color: green;
+    color: white;
+    padding: 5px;
+    border-radius: 50%;
+  }
